@@ -1,0 +1,2 @@
+@define-color background #000000;
+@define-color foreground #ffffff;
